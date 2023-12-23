@@ -1,0 +1,11 @@
+Circuit name,alu4
+channel width,60,
+fpga size,81,60
+device ut,0.018930,io,0.04,LAB,0.02,io,22 
+PLL,0 
+LAB,81 
+DSP,0 
+M9K,0 
+M144K,0 
+pin count,2571,net size,584,block size,103,pin high fanout,0.365228,mean fanout,4.402397,net dist,0.703767,net dist,0.085616,net dist,0.056507,net dist,0.044521,net dist,0.032534,net dist,0.023973,
+###########22#
