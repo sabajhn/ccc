@@ -1,8 +1,0 @@
-time_vpr 43489
-time_pack 2228
-time_createdevice 4376
-time_place 35919
-time_fe 0
-time_route 778
-time_analyse 186
-#########8###############
