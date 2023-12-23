@@ -1,2 +1,0 @@
-pin count,2571,net size,584,block size,103,pin high fanout,0.365228,mean fanout,4.402397,net dist,0.703767,net dist,0.085616,net dist,0.056507,net dist,0.044521,net dist,0.032534,net dist,0.023973,
-###########22#
